@@ -5,7 +5,7 @@ https://github.com/oula-network/subspace/releases
 
 ## Reference Platform
 - Ubuntu 22.04
-- NVIDIA 3080
+- NVIDIA GPU
 
 ## Running
 ```sh
