@@ -1,6 +1,5 @@
 # Subspace farmer
 
-**We charge zero commission fees for use of our GPU plotter.**
 
 ## Download
 https://github.com/oula-network/subspace/releases
@@ -20,3 +19,6 @@ export CUDA_VISIBLE_DEVICES=0 GPU_CONCURRENCY=15
 ## Notes
 If you have more paths to configure, you need to increase the values of `GPU_CONCURRENCY` and `--record-encoding-concurrency` accordingly.
 The higher the value of `GPU_CONCURRENCY`, the more GPU memory is required.
+
+## Disclaimer
+We charge zero commission fees for use of our GPU plotter. And no malware is included in the binaries.
