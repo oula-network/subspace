@@ -1,5 +1,7 @@
 # Subspace farmer
 
+**We charge zero commission fees for use of our GPU plotter.**
+
 ## Download
 https://github.com/oula-network/subspace/releases
 
