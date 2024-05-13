@@ -9,11 +9,11 @@
 1. Download and run the official subspace node
 
    https://docs.subspace.network/docs/farming-&-staking/farming/advanced-cli/cli-install#step-1-download-the-advanced-cli-executables
-3. Download oula subspace farming
+3. Download oula subspace farmer
    
     https://github.com/oula-network/subspace/releases
 
-4. Run oula subspace farming
+4. Run oula subspace farmer
 
     ```sh
     # set CUDA_VISIBLE_DEVICES = "x" before running a subspace-farmer to designate a single GPU to a subspace-farmer.
