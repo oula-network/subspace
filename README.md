@@ -1,8 +1,5 @@
 # Subspace farmer
 
-
-## Download
-
 ## Reference Platform
 - Ubuntu 22.04
 - NVIDIA GPU
